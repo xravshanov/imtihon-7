@@ -1,0 +1,34 @@
+[
+  {
+    "di": 1,
+    "image": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F03650000-6bec-ac1f-05ef-08db9f189c3d.jpg&w=3840&q=75",
+    "title": "DONARLI JUFTLIK",
+    "description": "Xitimiz Donar Pitsa yangi Tovuqli Donar bilan foydali narxdagi bir komboda.",
+    "price": "89,000",
+    "count": 1
+  },
+  {
+    "id": 2,
+    "image": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F03650000-6bec-ac1f-9968-08db658ee57e.jpg&w=3840&q=75",
+    "title": "Uchta pitsa 99 dan",
+    "description": "O'zingiz yoqtirgan 25 sm pitsalarni tanlang va foydani tatib ko'ring",
+    "price": "99,000",
+    "count": 1
+  },
+  {
+    "id": 3,
+    "image": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F03650000-6bec-ac1f-3a47-08dad9b3235c.jpg&w=3840&q=75",
+    "title": "Superset",
+    "description": "4 ta tovuq yoki mol go‘shtidan qilingan bellister, 2 ta 25 sm’lik pitsa: 5 xil pitsa turidan ikkita tanlab olishingiz mumkin. Keng do‘stlar davrasi uchun mos.",
+    "price": "139,000",
+    "count": 1
+  },
+  {
+    "id": 4,
+    "image": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F03650000-6bec-ac1f-9968-08db658ee57e.jpg&w=3840&q=75",
+    "title": "Uchta pitsa 99 dan",
+    "description": "O'zingiz yoqtirgan 25 sm pitsalarni tanlang va foydani tatib ko'ring",
+    "price": "99,000",
+    "count": 1
+  }
+]

@@ -1,0 +1,249 @@
+
+.container{
+  max-width: 1400px;
+  padding: 0;
+  margin: 0;
+}
+
+.header1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 0 40px 0;
+}
+.header2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.header2_content{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.header3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.uz{
+    color: var(--grayscale-light, #5f5e5e);
+    font-family: sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%; 
+}
+.header3_btn{
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%; 
+    background-color: rgb(54, 105, 4);
+    padding: 12px 30px;
+    border-radius: 35px;
+    border: 1px solid rgb(83, 159, 7);
+}
+.header3_content{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.tosh{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.header2_img{
+    padding: 15px;
+    background-color: rgb(219, 244, 235);
+    border-radius: 5px;
+}
+.header2_content1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+}
+.header2_content2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    padding: 8px 20px;
+    background-color: rgb(219, 244, 235);
+    border-radius: 5px;
+}
+.header2_span3{
+    color: var(--grayscale-light, #777575);
+    font-family: sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%; 
+    max-width: 250px;
+}
+.header2_content3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    padding: 15px 15px;
+    background-color: rgb(219, 244, 235);
+    border-radius: 5px;
+}
+.header2_span2{
+    color:  rgb(9, 115, 76);
+    font-family: sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%; 
+}
+.header2_h5{
+    color: var(--grayscale-light, #5f5e5e);
+    font-family: sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%; 
+    max-width: 100px;
+}
+.select{
+    border: none;
+    outline: none;
+    color: rgb(54, 105, 4);
+    font-family: sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%; 
+}
+.label{
+    color: var(--grayscale-light, #5f5e5e);
+    font-family: sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%; 
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+.option{
+    color:  rgb(54, 105, 4);
+    
+}
+
+
+@media screen and (min-width: 1024px) {
+  .header_wrapper {
+    display: none;
+  }
+
+  .btnEnter {
+    margin-top: 8px;
+    padding: 11px 24px;
+    width: 86px;
+    height: 41px;
+    background: #047857;
+    color: #fff;
+    margin-left: 30px;
+    font-size: 16px;
+    border: none;
+    border-radius: 30px;
+    text-align: center;
+    font-weight: 700;
+    display: block;
+
+    > a {
+      color: #fff;
+      text-decoration: none;
+    }
+  }
+
+  .header_desktop {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+
+  .header_logo > a {
+    max-width: 260px;
+    width: 100%;
+    height: 65px;
+    display: flex;
+  }
+
+  .header_location {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+
+  .header_city {
+    font-size: 19px;
+    font-weight: 600;
+  }
+
+  .header_city > span {
+    color: #006f4c;
+    font-weight: 700;
+    cursor: pointer;
+    margin-left: 5px;
+  }
+
+  .header_rating {
+    display: flex;
+    align-items: flex-end;
+    margin-top: 10px;
+  }
+
+  .header_ratingIcon {
+    font-size: 30px;
+    color: #fec529;
+  }
+
+  .header_rating > h3 {
+    font-size: 19px;
+  }
+
+  .header_call {
+    display: flex;
+    max-width: 400px;
+  }
+
+  .header_number {
+    display: flex;
+    align-items: center;
+  }
+
+  .header_callIcon {
+    font-size: 30px;
+    color: #00ab49;
+  }
+
+  .header_number > span {
+    font-weight: 700;
+    color: #000;
+    font-size: 27px;
+    margin-left: 5px;
+  }
+
+  .header_guaranteeText {
+    margin-left: 8px;
+    color: #006f4c;
+    font-size: 17px;
+  }
+
+  .header_halal {
+    width: 60px;
+    height: 60px;
+    display: flex;
+  }
+}

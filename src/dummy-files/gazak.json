@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "title": "Go'shtli bellister",
+        "description": "Mazali donar go’shti yumshoq tortilya ichida haqiqiy motsarella pishlog'i, pomidor, piyoz va barbekyu sousi bilan.",
+        "price": "24,000",
+        "image": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F5f20fa5f-87a6-4956-9884-6ebcf76531aa.jpg&w=1920&q=75",
+        "count": 1
+      },
+      {
+        "id": 2,
+        "title": "Tovuqli bellister",
+        "description": "Mazali tovuqcha yumshoq tortilya ichida haqiqiy motsarella pishlog'i, pomidor va ranch sous bilan",
+        "price": "22,000",
+        "image": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F383534d2-68d6-43bb-8ca2-45127018845c.jpg&w=1920&q=75",
+        "count": 1
+      },
+      {
+        "id": 3,
+        "title": "Peppironi rollar 4 dona",
+        "description": "Qarsildoq xamir, mayin Ranch sousi, pepperoni va juda koʻp pishloq",
+        "price": "17,000",
+        "image": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F14239b62-96b8-4396-bbe0-8ebd7e1c63fc.jpg&w=1920&q=75",
+        "count": 1
+      },
+      {
+        "id": 4,
+        "title": "Peppironi rollar 8 dona",
+        "description": "Qarsildoq xamir, mayin Ranch sousi, pepperoni va juda koʻp pishloq",
+        "price": "25,000",
+        "image": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F5aabe16c-ace1-40af-9225-8342ce4533ab.jpg&w=1920&q=75",
+        "count": 1
+      },
+      {
+        "id": 5,
+        "title": "Po-derevenskiy kartoshkasi",
+        "description": "Pechdan yangi uzilgan qarsildoq po-derevenski kartoshkasi",
+        "price": "16,000",
+        "image": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F6a0457e3-5606-4bf1-a8ed-ade0a5dc3485.jpg&w=1920&q=75",
+        "count": 1
+      },
+      {
+        "id": 6,
+        "title": "Kartoshka fri",
+        "description": "Pechdan yangi uzilgan qarsildoq kartoshka fri",
+        "price": "16,000",
+        "image": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F02b6e2a7-787c-46cb-b5b3-2dfafb6d23e2.jpg&w=1920&q=75",
+        "count": 1
+      },
+      {
+        "id": 7,
+        "title": "Shef’dan bellisster",
+        "description": "Motsarella pishlog'i, tovuq donar go'shti, ayzberg, tomatlar, pishloqli sous hamirga o'ralgan.",
+        "price": "22,000",
+        "image": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F4aeb4e3d-672d-4697-8be2-566235d329e3.jpg&w=1920&q=75",
+        "count": 1
+      },
+      {
+        "id": 8,
+        "title": "Snek Kombo",
+        "description": "Pechdan yangi uzilgan qarsildoq kartoshka fri",
+        "price": "16,000",
+        "image": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F4da9edb0-2a9b-4710-a277-85bd63ae144d.jpg&w=1920&q=75",
+        "count": 1
+      }
+]

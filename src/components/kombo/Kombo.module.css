@@ -1,0 +1,24 @@
+.kombo {
+  margin-top: 30px;
+}
+
+.kombo_category {
+  color: #1f1e1e;
+  font-size: 28px;
+  padding-bottom: 20px;
+}
+
+.kombo_wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+@media screen and (min-width: 1180px) {
+  .kombo_wrapper {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 15px;
+    gap: 15px;
+  }
+}

@@ -1,0 +1,87 @@
+.catalog {
+  padding: 10px 0;
+  display: none;
+  width: 100vw;
+  padding: 20px 0;
+}
+
+.btnPizza,
+.btnKombo {
+  border: none;
+  color: #000;
+  text-decoration: none;
+  font-size: 19px;
+  font-weight: 600;
+  background: transparent;
+}
+
+.sticky {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  background-color: #fff;
+  box-shadow: 0px 3px 10px 1px rgb(187, 178, 178);
+}
+
+.catalog_wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.catalog_logo {
+  max-width: 40px;
+  height: 32px;
+  display: flex;
+  transition: all 0.3s ease;
+  margin-right: 20px;
+}
+
+.catalog_logo > img {
+  max-width: 40px;
+  height: 32px;
+}
+
+.fixed_cart {
+  padding: 5px;
+  background-color: #ff002b;
+  color: #fff;
+  border-radius: 100px;
+  cursor: pointer;
+}
+
+.navbarProduct {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+.cart_box {
+  padding: 2px 10px;
+  display: flex;
+}
+
+.cart_box > span {
+  margin-left: 5px;
+}
+.nav_btn{
+  color: #1e1e1e;
+  font-family: sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%; 
+  padding: 6px 24px;
+  border-radius: 20px;
+  border: none;
+  cursor: pointer;
+  transition: 0.5s;
+  margin-right: 15px;
+  margin-left: 15px;
+}
+.nav_btn:hover{
+  background-color: rgb(208, 235, 219);
+}
